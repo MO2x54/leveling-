@@ -1,0 +1,16 @@
+{
+  "name": "VALO.LEVELING",
+  "short_name": "VALO.LEVELING",
+  "description": "Tactical 19-Hour Cooldown & Account Leveling Manager for Valorant",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F1923",
+  "theme_color": "#0F1923",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "16x16 32x32 48x48 64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}

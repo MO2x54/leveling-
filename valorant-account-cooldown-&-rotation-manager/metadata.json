@@ -1,0 +1,6 @@
+{
+  "name": "Valorant Account Cooldown & Rotation Manager",
+  "description": "Tactical 19-hour cooldown tracker and account manager for Valorant daily mission rotations, with companion CustomTkinter Python desktop app source and live web simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
